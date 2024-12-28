@@ -1,0 +1,11 @@
+printll(head);
+// InsertAtFirst(head,data);
+// printll(head);
+// InsertAtLast(head,40);
+// printll(head);
+// InsertAtAny(head,15,2);
+// printll(head);
+// deleteFirst(head);
+// printll(head);
+// deleteLast(head);
+// printll(head);
